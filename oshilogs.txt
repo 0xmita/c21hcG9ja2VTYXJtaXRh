@@ -12,82 +12,152 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Sarmita =====
-[1]Sarmita     |06:53:10 | 20-10-2026| login OK @sarmiita | score=1530 rank=4566
-[1]Sarmita     |06:53:10 | 20-10-2026| serverTime=2026-10-20T06:53:10.000Z local=2026-10-20T06:53:10.428Z
+[1]Sarmita     |09:14:22 | 21-10-2026| login OK @sarmiita | score=1620 rank=4381
+[1]Sarmita     |09:14:22 | 21-10-2026| serverTime=2026-10-21T09:14:22.000Z local=2026-10-21T09:14:22.430Z
 --> [1]Sarmita menjalankan: Claim Daily
-[1]Sarmita     |06:53:12 | 20-10-2026| daily: OK +10 poin score=1540
---> [1]Sarmita menjalankan: Auto All Tasks (8 pending)
-[1]Sarmita     |06:53:14 | 20-10-2026| [1/8] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/sarmiita/status/2112436472052661742
-[1]Sarmita     |06:53:14 | 20-10-2026| delay 10s...
-[1]Sarmita     |06:53:26 | 20-10-2026| [2/8] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/sarmiita/status/2112436610142102988
-[1]Sarmita     |06:53:26 | 20-10-2026| delay 10s...
-[1]Sarmita     |06:53:39 | 20-10-2026| [3/8] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/sarmiita/status/2112436718797169455
-[1]Sarmita     |06:53:39 | 20-10-2026| delay 10s...
-[1]Sarmita     |06:53:51 | 20-10-2026| [4/8] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/sarmiita/status/2112436497530325016
-[1]Sarmita     |06:53:51 | 20-10-2026| delay 10s...
-[1]Sarmita     |06:54:03 | 20-10-2026| [5/8] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/sarmiita/status/2112436740678204955
-[1]Sarmita     |06:54:03 | 20-10-2026| delay 10s...
-[1]Sarmita     |06:54:16 | 20-10-2026| [6/8] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/sarmiita/status/2112436780106051870
-[1]Sarmita     |06:54:16 | 20-10-2026| delay 10s...
-[1]Sarmita     |06:54:29 | 20-10-2026| [7/8] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/sarmiita/status/2112436880631577599
-[1]Sarmita     |06:54:29 | 20-10-2026| delay 10s...
-[1]Sarmita     |06:54:41 | 20-10-2026| [8/8] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/sarmiita/status/2112436820128765493
-[1]Sarmita     |06:54:41 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Sarmita     |06:54:43 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/sarmiita/status/2112436988824075877
+[1]Sarmita     |09:14:23 | 21-10-2026| daily: OK +10 poin score=1630
+--> [1]Sarmita menjalankan: Auto All Tasks (6 pending)
+[1]Sarmita     |09:14:26 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/sarmiita/status/2112834430307873424
+[1]Sarmita     |09:14:26 | 21-10-2026| delay 10s...
+[1]Sarmita     |09:14:38 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/sarmiita/status/2112834545313248564
+[1]Sarmita     |09:14:38 | 21-10-2026| delay 10s...
+[1]Sarmita     |09:14:53 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/sarmiita/status/2112834728572768281
+[1]Sarmita     |09:14:53 | 21-10-2026| delay 10s...
+[1]Sarmita     |09:15:05 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/sarmiita/status/2112834477387703462
+[1]Sarmita     |09:15:05 | 21-10-2026| delay 10s...
+[1]Sarmita     |09:15:18 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/sarmiita/status/2112834823912702032
+[1]Sarmita     |09:15:18 | 21-10-2026| delay 10s...
+[1]Sarmita     |09:15:32 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Sarmita     |09:15:32 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Sarmita     |09:15:34 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/sarmiita/status/2112834872337204248
 --> [1]Sarmita menjalankan: Watch Anime
-[1]Sarmita     |06:54:44 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Sarmita     |06:54:44 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Sarmita     |06:54:45 | 20-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Sarmita     |06:54:50 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Sarmita     |06:54:52 | 20-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Sarmita     |06:54:57 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Sarmita     |06:54:59 | 20-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Sarmita     |06:55:04 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Sarmita     |06:55:05 | 20-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Sarmita     |09:15:36 | 21-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Sarmita     |09:15:36 | 21-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Sarmita     |09:15:38 | 21-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Sarmita     |09:15:45 | 21-10-2026| watch oshi-captains-hat: 5% (5.40/92.00s)
+[1]Sarmita     |09:15:51 | 21-10-2026| watch oshi-captains-hat: 12% (11.61/92.00s)
+[1]Sarmita     |09:15:58 | 21-10-2026| watch oshi-captains-hat: 19% (17.51/92.00s)
+[1]Sarmita     |09:16:04 | 21-10-2026| watch oshi-captains-hat: 25% (23.28/92.00s)
+[1]Sarmita     |09:16:11 | 21-10-2026| watch oshi-captains-hat: 31% (28.94/92.00s)
+[1]Sarmita     |09:16:17 | 21-10-2026| watch oshi-captains-hat: 38% (35.09/92.00s)
+[1]Sarmita     |09:16:24 | 21-10-2026| watch oshi-captains-hat: 44% (40.93/92.00s)
+[1]Sarmita     |09:16:32 | 21-10-2026| watch oshi-captains-hat: 50% (46.64/92.00s)
+[1]Sarmita     |09:16:39 | 21-10-2026| watch oshi-captains-hat: 57% (53.04/92.00s)
+[1]Sarmita     |09:16:45 | 21-10-2026| watch oshi-captains-hat: 64% (59.47/92.00s)
+[1]Sarmita     |09:16:52 | 21-10-2026| watch oshi-captains-hat: 71% (65.81/92.00s)
+[1]Sarmita     |09:17:00 | 21-10-2026| watch oshi-captains-hat: 78% (71.99/92.00s)
+[1]Sarmita     |09:17:06 | 21-10-2026| watch oshi-captains-hat: 85% (78.49/92.00s)
+[1]Sarmita     |09:17:13 | 21-10-2026| watch oshi-captains-hat: 92% (84.89/92.00s)
+[1]Sarmita     |09:17:13 | 21-10-2026| watch oshi-captains-hat: COMPLETED (84.89/92.00s)
+[1]Sarmita     |09:17:18 | 21-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Sarmita     |09:17:20 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Sarmita     |09:17:28 | 21-10-2026| watch oshi-rainbow-star: 6% (5.50/86.00s)
+[1]Sarmita     |09:17:34 | 21-10-2026| watch oshi-rainbow-star: 13% (11.91/86.00s)
+[1]Sarmita     |09:17:41 | 21-10-2026| watch oshi-rainbow-star: 20% (17.90/86.00s)
+[1]Sarmita     |09:17:49 | 21-10-2026| watch oshi-rainbow-star: 27% (23.64/86.00s)
+[1]Sarmita     |09:17:55 | 21-10-2026| watch oshi-rainbow-star: 35% (30.27/86.00s)
+[1]Sarmita     |09:18:03 | 21-10-2026| watch oshi-rainbow-star: 43% (37.06/86.00s)
+[1]Sarmita     |09:18:09 | 21-10-2026| watch oshi-rainbow-star: 50% (43.35/86.00s)
+[1]Sarmita     |09:18:15 | 21-10-2026| watch oshi-rainbow-star: 57% (49.03/86.00s)
+[1]Sarmita     |09:18:22 | 21-10-2026| watch oshi-rainbow-star: 63% (54.83/86.00s)
+[1]Sarmita     |09:18:28 | 21-10-2026| watch oshi-rainbow-star: 70% (60.80/86.00s)
+[1]Sarmita     |09:18:35 | 21-10-2026| watch oshi-rainbow-star: 77% (66.55/86.00s)
+[1]Sarmita     |09:18:41 | 21-10-2026| watch oshi-rainbow-star: 84% (72.32/86.00s)
+[1]Sarmita     |09:18:47 | 21-10-2026| watch oshi-rainbow-star: 90% (77.92/86.00s)
+[1]Sarmita     |09:18:47 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (77.92/86.00s)
+[1]Sarmita     |09:18:52 | 21-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Sarmita     |09:18:54 | 21-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Sarmita     |09:19:01 | 21-10-2026| watch oshi-rainbow-lighthouse: 5% (5.19/87.00s)
+[1]Sarmita     |09:19:07 | 21-10-2026| watch oshi-rainbow-lighthouse: 12% (10.79/87.00s)
+[1]Sarmita     |09:19:14 | 21-10-2026| watch oshi-rainbow-lighthouse: 19% (16.63/87.00s)
+[1]Sarmita     |09:19:21 | 21-10-2026| watch oshi-rainbow-lighthouse: 26% (22.96/87.00s)
+[1]Sarmita     |09:19:28 | 21-10-2026| watch oshi-rainbow-lighthouse: 33% (28.95/87.00s)
+[1]Sarmita     |09:19:35 | 21-10-2026| watch oshi-rainbow-lighthouse: 40% (35.09/87.00s)
+[1]Sarmita     |09:19:42 | 21-10-2026| watch oshi-rainbow-lighthouse: 47% (41.66/87.00s)
+[1]Sarmita     |09:19:48 | 21-10-2026| watch oshi-rainbow-lighthouse: 55% (47.93/87.00s)
+[1]Sarmita     |09:19:55 | 21-10-2026| watch oshi-rainbow-lighthouse: 61% (53.71/87.00s)
+[1]Sarmita     |09:20:01 | 21-10-2026| watch oshi-rainbow-lighthouse: 68% (59.45/87.00s)
+[1]Sarmita     |09:20:08 | 21-10-2026| watch oshi-rainbow-lighthouse: 75% (65.43/87.00s)
+[1]Sarmita     |09:20:14 | 21-10-2026| watch oshi-rainbow-lighthouse: 81% (71.07/87.00s)
+[1]Sarmita     |09:20:20 | 21-10-2026| watch oshi-rainbow-lighthouse: 88% (76.67/87.00s)
+[1]Sarmita     |09:20:27 | 21-10-2026| watch oshi-rainbow-lighthouse: 94% (82.58/87.00s)
+[1]Sarmita     |09:20:27 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (82.58/87.00s)
+[1]Sarmita     |09:20:32 | 21-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Sarmita     |09:20:34 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Sarmita     |09:20:40 | 21-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.24/181.00s)
+[1]Sarmita     |09:20:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 6% (10.91/181.00s)
+[1]Sarmita     |09:20:54 | 21-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.94/181.00s)
+[1]Sarmita     |09:21:00 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (23.21/181.00s)
+[1]Sarmita     |09:21:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.96/181.00s)
+[1]Sarmita     |09:21:13 | 21-10-2026| watch bakeru-ikesou-jan-mv: 19% (34.56/181.00s)
+[1]Sarmita     |09:21:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 22% (40.85/181.00s)
+[1]Sarmita     |09:21:26 | 21-10-2026| watch bakeru-ikesou-jan-mv: 25% (46.48/181.00s)
+[1]Sarmita     |09:21:33 | 21-10-2026| watch bakeru-ikesou-jan-mv: 28% (52.09/181.00s)
+[1]Sarmita     |09:21:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 32% (58.23/181.00s)
+[1]Sarmita     |09:21:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 35% (63.99/181.00s)
+[1]Sarmita     |09:21:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: 38% (69.69/181.00s)
+[1]Sarmita     |09:21:59 | 21-10-2026| watch bakeru-ikesou-jan-mv: 41% (75.80/181.00s)
+[1]Sarmita     |09:22:05 | 21-10-2026| watch bakeru-ikesou-jan-mv: 45% (81.74/181.00s)
+[1]Sarmita     |09:22:11 | 21-10-2026| watch bakeru-ikesou-jan-mv: 48% (87.35/181.00s)
+[1]Sarmita     |09:22:22 | 21-10-2026| watch bakeru-ikesou-jan-mv: 51% (93.07/181.00s)
+[1]Sarmita     |09:22:29 | 21-10-2026| watch bakeru-ikesou-jan-mv: 51% (93.07/181.00s)
+[1]Sarmita     |09:22:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 54% (99.13/181.00s)
+[1]Sarmita     |09:22:41 | 21-10-2026| watch bakeru-ikesou-jan-mv: 57% (104.77/181.00s)
+[1]Sarmita     |09:22:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 61% (110.41/181.00s)
+[1]Sarmita     |09:22:54 | 21-10-2026| watch bakeru-ikesou-jan-mv: 64% (116.14/181.00s)
+[1]Sarmita     |09:23:01 | 21-10-2026| watch bakeru-ikesou-jan-mv: 67% (122.20/181.00s)
+[1]Sarmita     |09:23:07 | 21-10-2026| watch bakeru-ikesou-jan-mv: 70% (127.85/181.00s)
+[1]Sarmita     |09:23:13 | 21-10-2026| watch bakeru-ikesou-jan-mv: 73% (133.79/181.00s)
+[1]Sarmita     |09:23:20 | 21-10-2026| watch bakeru-ikesou-jan-mv: 77% (139.42/181.00s)
+[1]Sarmita     |09:23:26 | 21-10-2026| watch bakeru-ikesou-jan-mv: 80% (144.98/181.00s)
+[1]Sarmita     |09:23:33 | 21-10-2026| watch bakeru-ikesou-jan-mv: 83% (150.94/181.00s)
+[1]Sarmita     |09:23:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 86% (156.93/181.00s)
+[1]Sarmita     |09:23:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.57/181.00s)
+[1]Sarmita     |09:23:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: 92% (168.19/181.00s)
+[1]Sarmita     |09:23:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (168.19/181.00s)
 --> [1]Sarmita menjalankan: Read Article
-[1]Sarmita     |06:55:08 | 20-10-2026| news: 27/27 artikel selesai dibaca
-[1]Sarmita     |06:55:09 | 20-10-2026| mint eligibility: {"userId":"1748254288797962240","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@SarmitaLovia","status":"submitted","revision":"95a5a4e4-e2bc-4f21-88bc-2f9230186
-[1]Sarmita     |06:55:09 | 20-10-2026| news: semua artikel sudah dibaca
+[1]Sarmita     |09:23:54 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Sarmita     |09:23:55 | 21-10-2026| mint eligibility: {"userId":"1748254288797962240","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@SarmitaLovia","status":"submitted","revision":"95a5a4e4-e2bc-4f21-88bc-2f9230186
+[1]Sarmita     |09:24:02 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Sarmita menjalankan: Quiz Anime
-[1]Sarmita     |06:55:10 | 20-10-2026| quiz ep1: sudah dijawab
-[1]Sarmita     |06:55:10 | 20-10-2026| quiz ep2: sudah dijawab
-[1]Sarmita     |06:55:10 | 20-10-2026| quiz ep3: sudah dijawab
-[1]Sarmita     |06:55:10 | 20-10-2026| quiz ep4: sudah dijawab
-[1]Sarmita     |06:55:10 | 20-10-2026| quiz ep5: sudah dijawab
-[1]Sarmita     |06:55:10 | 20-10-2026| quiz ep6: sudah dijawab
+[1]Sarmita     |09:24:05 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Sarmita     |09:24:05 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Sarmita     |09:24:05 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Sarmita     |09:24:05 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Sarmita     |09:24:05 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Sarmita     |09:24:05 | 21-10-2026| quiz ep6: sudah dijawab
 --> [1]Sarmita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Sarmita     |06:55:17 | 20-10-2026| music: kedua misi sudah tercapai, stop
-[1]Sarmita     |06:55:24 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Sarmita     |06:55:24 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Sarmita     |06:55:24 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Sarmita     |09:24:08 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Sarmita     |09:24:08 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Sarmita     |09:24:08 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Sarmita     |09:24:08 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Sarmita menjalankan: Claim Missions
-[1]Sarmita     |06:55:24 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Sarmita     |06:55:24 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Sarmita     |06:55:24 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Sarmita     |09:24:09 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Sarmita     |09:24:09 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Sarmita     |09:24:09 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Sarmita menjalankan: Check Eligibility
 
 --- eligibility [1]Sarmita ---
-  @sarmiita | score=1530 rank=4566
-  tasks    [##################--] 73/81
+  @sarmiita | score=1620 rank=4381
+  tasks    [###################-] 74/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 18/17
+  watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Sarmita menjalankan: Read Manga
-[1]Sarmita     |06:55:28 | 20-10-2026| manga: 0/13 chapter belum completed
+[1]Sarmita     |09:24:13 | 21-10-2026| manga: 0/13 chapter belum completed
 --> [1]Sarmita menjalankan: Get Gift
-[1]Sarmita     |06:55:29 | 20-10-2026| gift: 0/4 belum diterima
+[1]Sarmita     |09:24:14 | 21-10-2026| gift: 0/4 belum diterima
 --> [1]Sarmita menjalankan: Setup Profile
-[1]Sarmita     |06:55:29 | 20-10-2026| profile: bio="https://x.com/sarmiita" fav=oshi rewardAt=1791814231
-[1]Sarmita     |06:55:29 | 20-10-2026| profile: bonus sudah diklaim, skip
+[1]Sarmita     |09:24:15 | 21-10-2026| profile: bio="https://x.com/sarmiita" fav=oshi rewardAt=1791814231
+[1]Sarmita     |09:24:15 | 21-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Sarmita menjalankan: Bind Wallet
-[1]Sarmita     |06:55:30 | 20-10-2026| wallet: sudah terikat C2vuaxfgbk... (solana)
+[1]Sarmita     |09:24:15 | 21-10-2026| wallet: sudah terikat C2vuaxfgbk... (solana)
 
 == RINGKASAN ==
-- Sarmita: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Sarmita: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
